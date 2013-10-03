@@ -12,7 +12,6 @@ public class Blank extends Piece {
 		
 		public Blank(Point a, char symbol){
 			super(a,symbol);
-			this.symbol = '_';
 		}
 		
 }
